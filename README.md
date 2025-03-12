@@ -1,1 +1,3 @@
-# cow-assistant
+# Cow Assistant
+
+![logo](logo.png)
